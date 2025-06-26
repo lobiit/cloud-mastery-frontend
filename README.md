@@ -5,7 +5,7 @@ Welcome to the **Cloud Mastery Training App**, a hands-on project designed exclu
 > 🎯 This app is built using [Next.js](https://nextjs.org), and is designed to help you explore **Google Cloud Platform (GCP)**, and API-driven application development — guided by real-world cloud experts from **Pawa IT Solutions** and **Google Cloud Africa**.
 
 ---
-
+## Hello
 ## 📍 Event Details
 
 **📅 Date:** June 26, 2025  
